@@ -1,6 +1,6 @@
 
 # Projetos Mantis Code
-[![Discord Chat](https://img.shields.io/discord/1014230996192874526.svg?logo=discord)](https://discord.gg/Y4mdjuAuCz) Total de  usuários - (340)
+[![Discord Chat](https://img.shields.io/discord/1014230996192874526.svg?logo=discord)](https://discord.gg/Y4mdjuAuCz) Total de  usuários - (600+)
 
 Repositório destinado ao desenvolvimento de projetos para o grupo do discord Mantis Code, aqui conterá projetos frontend, backend e desafios figma, quaisquer projetos sugeridos em nosso discord serão analisados ​​e destacados dentro deste repositório, permitindo que usuários do GitHub ou Discord possam usar e aprender com seu código
 
@@ -29,7 +29,7 @@ Lembre-se de sempre mencionar sua linha de aprendizado com seu projeto e passe e
 
 
 # Mantis Code Projects
-[![Discord Chat](https://img.shields.io/discord/1014230996192874526.svg?logo=discord)](https://discord.gg/Y4mdjuAuCz) Total Users - (225)
+[![Discord Chat](https://img.shields.io/discord/1014230996192874526.svg?logo=discord)](https://discord.gg/Y4mdjuAuCz) Total Users - (600+)
 
 Repository intended for project development for the Mantis Code discord group, here will contain frontend, backend projects and figma challenges, any projects suggested in our discord will be analyzed and highlighted within this repository, allowing GitHub or Discord users to can use and learn from your code
 
